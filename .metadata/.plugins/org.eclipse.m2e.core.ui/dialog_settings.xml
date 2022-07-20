@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="F:\Coding stuff\EcommerceApp"/>
 			<item value="F:\Coding stuff"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,14 +27,20 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="eCommApp"/>
+			<item value="com.esteban"/>
 			<item value="com.esteban.eCommerceApplication"/>
 			<item value="es.project"/>
 		</list>
 		<list key="groupId">
+			<item value="eCommApp"/>
 			<item value="com.esteban"/>
 			<item value="es.project"/>
 		</list>
 		<list key="artifactId">
+			<item value="eComm"/>
+			<item value="eCommaPP"/>
+			<item value="EcommApp"/>
 			<item value="eCommerceApplication"/>
 			<item value="SpringExample"/>
 		</list>
